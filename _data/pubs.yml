@@ -17,7 +17,12 @@
 # Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag
 #
 
-- title: ''
-  authors: 
-  conf: 
-  url:
+- title: 'Physical Visualization Design'
+  future: true
+  authors: Lana Ramjit, Subrata Mitra, Ravi Netravali, Eugene Wu
+  conf: SIGMOD 2022 (in progress)
+- title: 'Adaptive Code Generation for Data-Intensive Analytics'
+  authors: Wangda Zhang, Junyoung Kim, Kenneth A. Ross, Eric Sedlar, Lucas Stadler
+  conf: VLDB 2021
+  url: http://www.vldb.org/pvldb/vol14/p929-zhang.pdf
+  selected: true
