@@ -21,6 +21,27 @@
 #  future: true
 #  authors: Lana Ramjit, Subrata Mitra, Ravi Netravali, Eugene Wu
 #  conf: VLDB 2022 (in progress)
+#
+- title: "JoinBoost: Grow Trees Over Normalized Data Using Only SQL "
+  authors: Zezhou Huang, Rathijit Sen, Jiaxiang Liu, Eugene Wu
+  conf: VLDB 2023
+  url: https://arxiv.org/abs/2307.00422
+- title: "Random Forests over Normalized Data in CPU-GPU DBMSes"
+  authors: Zezhou Huang, Pavan Kalyan, Rathijit Sen, Eugene Wu
+  short: true
+  conf: DaMoN at SIGMOD 2023
+  url: https://dl.acm.org/doi/10.1145/3592980.3595318
+- title: SmokedDuck Demonstration: SQLStepper
+  authors: Haneen Mohammed, Charlie Summers, Sughosh Kaushik, Eugene Wu
+  conf: SIGMOD Demo 2023
+- title: 'Amulet: Adaptive matrix-multiplication-like tasks'
+  authors: Junyoung Kim, Kenneth A Ross, Eric Sedlar, Lukas Stadler
+  url: https://arxiv.org/pdf/2305.08872.pdf
+  conf: DaMoN workshop 2023
+- title: GAMUT: Matrix Multiplication-Like Tasks on GPUs
+  authors: Xincheng Xie, Junyoung Kim and Kenneth Ross
+  url: https://ceur-ws.org/Vol-3462/ADMS6.pdf
+  conf: ADMS workshop 2023
 - title: 'DIEL: Interactive Visualization Beyond the Here and Now'
   authors: Yifan Wu, Remco Chang, Joe Hellerstein, Arvind Satyanarayan, and Eugene Wu
   conf: VIS 2021
