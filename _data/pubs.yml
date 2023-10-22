@@ -38,7 +38,7 @@
   authors: Junyoung Kim, Kenneth A Ross, Eric Sedlar, Lukas Stadler
   url: https://arxiv.org/pdf/2305.08872.pdf
   conf: DaMoN workshop 2023
-- title: GAMUT: Matrix Multiplication-Like Tasks on GPUs
+- title: "GAMUT: Matrix Multiplication-Like Tasks on GPUs"
   authors: Xincheng Xie, Junyoung Kim and Kenneth Ross
   url: https://ceur-ws.org/Vol-3462/ADMS6.pdf
   conf: ADMS workshop 2023
