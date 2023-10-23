@@ -21,5 +21,8 @@ Existing query optimization techniques for in-memory processing are limited in s
 
 ## Open Source Software
 
-## Galleries and Tutorials
+* [JoinBoost: A Python-based In-DB Tree Training Library](https://joinboost.readthedocs.io/en/latest/app.html)
+
+<!--## Galleries and Tutorials
+-->
 
