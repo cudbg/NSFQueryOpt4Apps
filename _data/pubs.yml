@@ -22,6 +22,23 @@
 #  authors: Lana Ramjit, Subrata Mitra, Ravi Netravali, Eugene Wu
 #  conf: VLDB 2022 (in progress)
 #
+- title: 'SmokedDuck: Fast Lineage in Analytical Databases'
+  authors: Haneen Mohammed, Charlie Summers, Eugene Wu
+  conf: In Progress 2024
+- title: 'SET: Searching Effective Supervised Learning Augmentations in Large Tabular Data Repositories'
+  authors: Jerry Liu, Zachary Huang, Eugene Wu
+  conf: GUIDEAI Workshop at SIGMOD 2024
+  url: https://www.dropbox.com/scl/fi/61djqidstld7r64zp70rb/kitana-SET-guideai24.pdf?rlkey=uogmb42ma4ok2u1kdvohiv689&dl=0
+- title: "The Fast and the Private: Task-based Dataset Search"
+  authors: Zezhou Huang, Jiaxiang Liu, Haonan Wang, Eugene Wu
+  conf: CIDR 2024
+  url: https://arxiv.org/pdf/2308.05637.pdf
+  slides: https://www.dropbox.com/scl/fi/y24uesql0j0t74tn02hd9/2024-01-CIDR-Mileena.pdf?rlkey=qiwk8n0ef0ggg2p2xa3aa8z0z&dl=0
+- title: "Saibot: A Differentially Private Data Search Platform"
+  authors: Zezhou Huang, Jiaxiang Liu, Daniel Alabi, Raul Castro Fernandez, Eugene Wu
+  conf: VLDB 2023
+  url: https://arxiv.org/abs/2307.00432
+
 - title: "JoinBoost: Grow Trees Over Normalized Data Using Only SQL "
   authors: Zezhou Huang, Rathijit Sen, Jiaxiang Liu, Eugene Wu
   conf: VLDB 2023
